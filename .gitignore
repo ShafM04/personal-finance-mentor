@@ -1,0 +1,13 @@
+# Python clutter
+__pycache__/
+*.pyc
+
+# Environment folders
+.env
+venv/
+env/
+
+# IDE and OS specific files
+.idea/
+.vscode/
+.DS_Store
