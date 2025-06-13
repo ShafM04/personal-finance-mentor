@@ -2,7 +2,7 @@
 import google.generativeai as genai
 
 # === PASTE YOUR GOOGLE API KEY ON THE NEXT LINE ===
-api_key = "AIzaSyD5-JmziwVUivEpCFFEzwCMP7W2kke_mGw"
+api_key = "Paste API Key from Gemini"
 # ===============================================
 
 # Configure the client with your key
